@@ -68,7 +68,7 @@ The objective was to design a 3-page interactive Power BI dashboard that surface
 - 📄 **[PBIX File](./Market%20Mindz%20project.pbix)** → Power BI report file
 - 📂 **[Dataset](./marketmindz_research_data.csv)** → Contains the sales dataset used for analysis
 - 🎨 **[Backgrounds](./maket%20minds%20background%20theme.pptx)** → PowerPoint file containing the custom report design    
-- 📊 **[Screenshots](./Campaign%20Performance/)** → Preview images of the dashboard  
+- 📊 **[Screenshots](./Campaign%20Performance.png/)** → Preview images of the dashboard  
  
 
 ## 📌 Report Preview  
@@ -77,7 +77,7 @@ The objective was to design a 3-page interactive Power BI dashboard that surface
 ![image](https://github.com/SahirRasheed/Market-Mindz-Market-Research/blob/main/Buyer%20Composition.png?raw=true)
 
 
-![image]([https://github.com/user-attachments/assets/1e25cc19-d5f1-47be-b5f7-5167f58dc492](https://github.com/SahirRasheed/Market-Mindz-Market-Research/blob/main/Purchase%20Drivers.png?raw=true](https://github.com/SahirRasheed/Market-Mindz-Market-Research/blob/main/Purchase%20Drivers.png?raw=true))
+![image](https://github.com/SahirRasheed/Market-Mindz-Market-Research/blob/main/Purchase%20Drivers.png?raw=true)
 
 ## 🛠 Technical Skills Demonstrated
 
